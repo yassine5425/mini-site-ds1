@@ -7,3 +7,5 @@ function afficherMessage() {
 
 // Appel de la fonction
 afficherMessage();
+const now = new Date();
+console.log("Date et heure actuelles :", now.toLocaleString()); 
