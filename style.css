@@ -13,3 +13,10 @@ h1 {
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e0f7fa;  
+    padding: 20px;
+    text-align: center;
+}
+
