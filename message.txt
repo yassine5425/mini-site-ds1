@@ -1,1 +1,2 @@
 Bonjour depuis la branche principale.
+Bonjour depuis la branche feature/conflit !
